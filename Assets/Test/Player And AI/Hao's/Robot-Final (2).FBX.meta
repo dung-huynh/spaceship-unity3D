@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: c41580ba392c64e189c7e81b8952a737
+timeCreated: 1444669989
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ban tay L
+    100002: ban tay R
+    100004: bap tay L
+    100006: bap tay R
+    100008: co chan L
+    100010: co chan R
+    100012: dau
+    100014: dui L
+    100016: dui R
+    100018: khop chan L
+    100020: khop chan R
+    100022: khop tay L
+    100024: khop tay R
+    100026: ngon chan L
+    100028: ngon chan R
+    100030: Object001
+    100032: ong chan L
+    100034: ong chan R
+    100036: ong tay L
+    100038: ong tay R
+    100040: //RootNode
+    100042: xuong chau
+    100044: xuong co
+    100046: xuong hong
+    100048: xuong nguc
+    400000: ban tay L
+    400002: ban tay R
+    400004: bap tay L
+    400006: bap tay R
+    400008: co chan L
+    400010: co chan R
+    400012: dau
+    400014: dui L
+    400016: dui R
+    400018: khop chan L
+    400020: khop chan R
+    400022: khop tay L
+    400024: khop tay R
+    400026: ngon chan L
+    400028: ngon chan R
+    400030: Object001
+    400032: ong chan L
+    400034: ong chan R
+    400036: ong tay L
+    400038: ong tay R
+    400040: //RootNode
+    400042: xuong chau
+    400044: xuong co
+    400046: xuong hong
+    400048: xuong nguc
+    4300000: Object001
+    9500000: //RootNode
+    13700000: Object001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: xuong chau
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dui L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dui R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ong chan L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ong chan R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: co chan L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: co chan R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: xuong hong
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: xuong nguc
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: khop tay L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: khop tay R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bap tay L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bap tay R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ong tay L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ong tay R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ban tay L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ban tay R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngon chan L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngon chan R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: dau
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Robot-Final (2)(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Object001
+      position: {x: 0, y: 1.01310015, z: -.121606983}
+      rotation: {x: -.707106709, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong chau
+      position: {x: -.000542988768, y: 1.09310281, z: -.0613428876}
+      rotation: {x: .122305475, y: .128003567, z: -.696449101, w: .695424378}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: khop chan L
+      position: {x: -.132597953, y: -.0185528565, z: -.0514620207}
+      rotation: {x: -.124642178, y: -.125666916, z: .693087757, w: .698785782}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: dui L
+      position: {x: -.138492346, y: -7.62939436e-08, z: 0}
+      rotation: {x: -.225032002, y: -.129585132, z: .69637841, w: .669048131}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: ong chan L
+      position: {x: -.550653219, y: 8.00132693e-06, z: 8.01086401e-07}
+      rotation: {x: .250595599, y: -.0680726767, z: -.017097529, w: .965544224}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: co chan L
+      position: {x: -.521373153, y: -5.72204577e-08, z: 1.19209287e-09}
+      rotation: {x: -.000108717817, y: .0518687479, z: .00209205155, w: .998651743}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: ngon chan L
+      position: {x: -.133984268, y: -4.005432e-07, z: 4.76837148e-09}
+      rotation: {x: -.00779937906, y: .667221487, z: -.0146197556, w: .74467504}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: khop chan R
+      position: {x: -.132257923, y: .0257564131, z: -.0513356403}
+      rotation: {x: .125666797, y: -.124642164, z: -.698785782, w: .693087757}
+      scale: {x: 1.00000012, y: .99999994, z: 1.00000036}
+      transformModified: 1
+    - name: dui R
+      position: {x: -.138492331, y: 7.62939436e-08, z: 1.90734859e-08}
+      rotation: {x: .225031972, y: -.129585072, z: -.69637835, w: .66904819}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: ong chan R
+      position: {x: -.550653398, y: -7.89642309e-06, z: 7.24792471e-07}
+      rotation: {x: -.25059557, y: -.0680726543, z: .0170974415, w: .965544224}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: co chan R
+      position: {x: -.521372795, y: 1.52587887e-07, z: -6.67572024e-08}
+      rotation: {x: .000108695931, y: .051868882, z: -.00209216657, w: .998651683}
+      scale: {x: .99999994, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: ngon chan R
+      position: {x: -.133984491, y: 2.28881831e-07, z: -5.48362706e-08}
+      rotation: {x: .00779978186, y: .667221367, z: .0146197183, w: .744675159}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: xuong hong
+      position: {x: -.152897179, y: -7.43661044e-09, z: -3.81469718e-08}
+      rotation: {x: -.000349930691, y: -.1790604, z: -.000984349637, w: .983837545}
+      scale: {x: .999999881, y: 1, z: .99999994}
+      transformModified: 1
+    - name: xuong nguc
+      position: {x: -.187794492, y: 2.98023217e-10, z: -1.7881393e-09}
+      rotation: {x: -.00411799364, y: -.119023815, z: -.0121682119, w: .992808282}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: khop tay L
+      position: {x: -.346334666, y: -.0294937119, z: -.00126762385}
+      rotation: {x: .0886330828, y: .0826658532, z: .708195627, w: .695535481}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: bap tay L
+      position: {x: -.339304, y: 1.52587887e-07, z: 0}
+      rotation: {x: .0417311005, y: .000357292447, z: .00854039565, w: .99909234}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: ong tay L
+      position: {x: -.357656866, y: -4.73022465e-06, z: 9.53674295e-09}
+      rotation: {x: -.042085655, y: -.000185318087, z: -.00445892289, w: .999104083}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: ban tay L
+      position: {x: -.393710077, y: -1.67846679e-06, z: 0}
+      rotation: {x: -.000108432469, y: .0359908789, z: -.0128204143, w: .999269903}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: khop tay R
+      position: {x: -.347186893, y: .021394195, z: -.000730934145}
+      rotation: {x: -.0826658309, y: .0886329934, z: -.695535183, w: .708195865}
+      scale: {x: 1, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: bap tay R
+      position: {x: -.33930403, y: 0, z: -9.53674295e-09}
+      rotation: {x: -.0417326055, y: -1.40257191e-06, z: 4.86598583e-05, w: .999128819}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: ong tay R
+      position: {x: -.357656538, y: 4.73022465e-06, z: 0}
+      rotation: {x: .042085696, y: -.000185319979, z: .0044591953, w: .999104083}
+      scale: {x: .999999821, y: 1, z: .99999994}
+      transformModified: 1
+    - name: ban tay R
+      position: {x: -.393709928, y: 1.64031974e-06, z: 0}
+      rotation: {x: .000108442277, y: .0359908678, z: .0128203323, w: .999269903}
+      scale: {x: 1.00000036, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: xuong co
+      position: {x: -.343966812, y: -1.97887417e-07, z: -3.81469718e-08}
+      rotation: {x: .0030317835, y: .121090874, z: -.000306514936, w: .99263674}
+      scale: {x: 1.00000024, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: dau
+      position: {x: -.0600207523, y: -4.76837148e-09, z: 9.53674295e-09}
+      rotation: {x: -.0036326109, y: -.00581994234, z: .0187036321, w: .999801517}
+      scale: {x: .999999821, y: .999999762, z: .999999881}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

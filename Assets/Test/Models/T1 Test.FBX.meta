@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 94b38d8551dfb47ba90564d059410278
+timeCreated: 1445096570
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box177
+    100002: Box178
+    100004: Box183
+    100006: Box184
+    100008: Box186
+    100010: Box189
+    100012: Box190
+    100014: Box194
+    100016: Box195
+    100018: Box205
+    100020: Box206
+    100022: Box428
+    100024: Box429
+    100026: Box433
+    100028: Box441
+    100030: Box442
+    100032: Box446
+    100034: Box447
+    100036: Box448
+    100038: Box449
+    100040: Box451
+    100042: Box452
+    100044: Box453
+    100046: Box454
+    100048: Box455
+    100050: Box456
+    100052: Box458
+    100054: Box459
+    100056: Box460
+    100058: Box461
+    100060: Box462
+    100062: Box467
+    100064: Box473
+    100066: Box476
+    100068: Box477
+    100070: Box479
+    100072: Box481
+    100074: Box482
+    100076: Box483
+    100078: Box484
+    100080: Box485
+    100082: Box486
+    100084: Box487
+    100086: Box488
+    100088: Box489
+    100090: Box490
+    100092: Box492
+    100094: Box493
+    100096: Box494
+    100098: Box495
+    100100: Box496
+    100102: Box497
+    100104: Box498
+    100106: Box499
+    100108: Box500
+    100110: Box504
+    100112: Box505
+    100114: Box506
+    100116: Box507
+    100118: Box510
+    100120: Box511
+    100122: Box512
+    100124: Box513
+    100126: Box514
+    100128: Box515
+    100130: Box516
+    100132: Corridor T1 005
+    100134: Corridor T1 010
+    100136: Corridor T1 011
+    100138: Corridor T1 015
+    100140: Corridor T1 016
+    100142: Corridor T1 018
+    100144: Corridor T1 019
+    100146: Corridor T1 020
+    100148: Corridor T1 021
+    100150: Corridor T1 022
+    100152: Corridor T1 023
+    100154: Corridor T1 024
+    100156: cua engine L
+    100158: cua engine R
+    100160: cua sau
+    100162: Cylinder004
+    100164: Cylinder005
+    100166: Cylinder006
+    100168: Cylinder009
+    100170: Cylinder010
+    100172: hanh lang sau
+    100174: Object002
+    100176: Object005
+    100178: Object006
+    100180: Object007
+    100182: Object008
+    100184: Object009
+    100186: Object010
+    100188: Object011
+    100190: Object012
+    100192: Object014
+    100194: Object015
+    100196: Pilar T1 D 000
+    100198: Pilar T1 D 001
+    100200: Pilar T1 D 002
+    100202: Pilar T1 D 003
+    100204: Pilar T1 D 006
+    100206: Pilar T1 D 007
+    100208: Pilar T1 D 008
+    100210: Pilar T1 D 009
+    100212: Pilar T1 D 010
+    100214: Pilar T1 U 000
+    100216: Pilar T1 U 001
+    100218: Pilar T1 U 002
+    100220: Pilar T1 U 003
+    100222: Pilar T1 U 004
+    100224: Pilar T1 U 005
+    100226: Pilar T1 U 006
+    100228: Pilar T1 U 007
+    100230: StraightStair001
+    100232: StraightStair002
+    100234: StraightStair003
+    100236: StraightStair004
+    100238: StraightStair005
+    100240: StraightStair006
+    100242: StraightStair007
+    100244: StraightStair008
+    100246: StraightStair009
+    100248: //RootNode
+    100250: tuong engine L
+    100252: tuong engine R
+    400000: Box177
+    400002: Box178
+    400004: Box183
+    400006: Box184
+    400008: Box186
+    400010: Box189
+    400012: Box190
+    400014: Box194
+    400016: Box195
+    400018: Box205
+    400020: Box206
+    400022: Box428
+    400024: Box429
+    400026: Box433
+    400028: Box441
+    400030: Box442
+    400032: Box446
+    400034: Box447
+    400036: Box448
+    400038: Box449
+    400040: Box451
+    400042: Box452
+    400044: Box453
+    400046: Box454
+    400048: Box455
+    400050: Box456
+    400052: Box458
+    400054: Box459
+    400056: Box460
+    400058: Box461
+    400060: Box462
+    400062: Box467
+    400064: Box473
+    400066: Box476
+    400068: Box477
+    400070: Box479
+    400072: Box481
+    400074: Box482
+    400076: Box483
+    400078: Box484
+    400080: Box485
+    400082: Box486
+    400084: Box487
+    400086: Box488
+    400088: Box489
+    400090: Box490
+    400092: Box492
+    400094: Box493
+    400096: Box494
+    400098: Box495
+    400100: Box496
+    400102: Box497
+    400104: Box498
+    400106: Box499
+    400108: Box500
+    400110: Box504
+    400112: Box505
+    400114: Box506
+    400116: Box507
+    400118: Box510
+    400120: Box511
+    400122: Box512
+    400124: Box513
+    400126: Box514
+    400128: Box515
+    400130: Box516
+    400132: Corridor T1 005
+    400134: Corridor T1 010
+    400136: Corridor T1 011
+    400138: Corridor T1 015
+    400140: Corridor T1 016
+    400142: Corridor T1 018
+    400144: Corridor T1 019
+    400146: Corridor T1 020
+    400148: Corridor T1 021
+    400150: Corridor T1 022
+    400152: Corridor T1 023
+    400154: Corridor T1 024
+    400156: cua engine L
+    400158: cua engine R
+    400160: cua sau
+    400162: Cylinder004
+    400164: Cylinder005
+    400166: Cylinder006
+    400168: Cylinder009
+    400170: Cylinder010
+    400172: hanh lang sau
+    400174: Object002
+    400176: Object005
+    400178: Object006
+    400180: Object007
+    400182: Object008
+    400184: Object009
+    400186: Object010
+    400188: Object011
+    400190: Object012
+    400192: Object014
+    400194: Object015
+    400196: Pilar T1 D 000
+    400198: Pilar T1 D 001
+    400200: Pilar T1 D 002
+    400202: Pilar T1 D 003
+    400204: Pilar T1 D 006
+    400206: Pilar T1 D 007
+    400208: Pilar T1 D 008
+    400210: Pilar T1 D 009
+    400212: Pilar T1 D 010
+    400214: Pilar T1 U 000
+    400216: Pilar T1 U 001
+    400218: Pilar T1 U 002
+    400220: Pilar T1 U 003
+    400222: Pilar T1 U 004
+    400224: Pilar T1 U 005
+    400226: Pilar T1 U 006
+    400228: Pilar T1 U 007
+    400230: StraightStair001
+    400232: StraightStair002
+    400234: StraightStair003
+    400236: StraightStair004
+    400238: StraightStair005
+    400240: StraightStair006
+    400242: StraightStair007
+    400244: StraightStair008
+    400246: StraightStair009
+    400248: //RootNode
+    400250: tuong engine L
+    400252: tuong engine R
+    2300000: Box177
+    2300002: Box178
+    2300004: Box183
+    2300006: Box184
+    2300008: Box186
+    2300010: Box189
+    2300012: Box190
+    2300014: Box194
+    2300016: Box195
+    2300018: Box205
+    2300020: Box206
+    2300022: Box428
+    2300024: Box429
+    2300026: Box433
+    2300028: Box441
+    2300030: Box442
+    2300032: Box446
+    2300034: Box447
+    2300036: Box448
+    2300038: Box449
+    2300040: Box451
+    2300042: Box452
+    2300044: Box453
+    2300046: Box454
+    2300048: Box455
+    2300050: Box456
+    2300052: Box458
+    2300054: Box459
+    2300056: Box460
+    2300058: Box461
+    2300060: Box462
+    2300062: Box467
+    2300064: Box473
+    2300066: Box476
+    2300068: Box477
+    2300070: Box479
+    2300072: Box481
+    2300074: Box482
+    2300076: Box483
+    2300078: Box484
+    2300080: Box485
+    2300082: Box486
+    2300084: Box487
+    2300086: Box488
+    2300088: Box489
+    2300090: Box490
+    2300092: Box492
+    2300094: Box493
+    2300096: Box494
+    2300098: Box495
+    2300100: Box496
+    2300102: Box497
+    2300104: Box498
+    2300106: Box499
+    2300108: Box500
+    2300110: Box504
+    2300112: Box505
+    2300114: Box506
+    2300116: Box507
+    2300118: Box510
+    2300120: Box511
+    2300122: Box512
+    2300124: Box513
+    2300126: Box514
+    2300128: Box515
+    2300130: Box516
+    2300132: Corridor T1 005
+    2300134: Corridor T1 010
+    2300136: Corridor T1 011
+    2300138: Corridor T1 015
+    2300140: Corridor T1 016
+    2300142: Corridor T1 018
+    2300144: Corridor T1 019
+    2300146: Corridor T1 020
+    2300148: Corridor T1 021
+    2300150: Corridor T1 022
+    2300152: Corridor T1 023
+    2300154: Corridor T1 024
+    2300156: cua engine L
+    2300158: cua engine R
+    2300160: cua sau
+    2300162: Cylinder004
+    2300164: Cylinder005
+    2300166: Cylinder006
+    2300168: Cylinder009
+    2300170: Cylinder010
+    2300172: hanh lang sau
+    2300174: Object002
+    2300176: Object005
+    2300178: Object006
+    2300180: Object007
+    2300182: Object008
+    2300184: Object009
+    2300186: Object010
+    2300188: Object011
+    2300190: Object012
+    2300192: Object014
+    2300194: Object015
+    2300196: Pilar T1 D 000
+    2300198: Pilar T1 D 001
+    2300200: Pilar T1 D 002
+    2300202: Pilar T1 D 003
+    2300204: Pilar T1 D 006
+    2300206: Pilar T1 D 007
+    2300208: Pilar T1 D 008
+    2300210: Pilar T1 D 009
+    2300212: Pilar T1 D 010
+    2300214: Pilar T1 U 000
+    2300216: Pilar T1 U 001
+    2300218: Pilar T1 U 002
+    2300220: Pilar T1 U 003
+    2300222: Pilar T1 U 004
+    2300224: Pilar T1 U 005
+    2300226: Pilar T1 U 006
+    2300228: Pilar T1 U 007
+    2300230: StraightStair001
+    2300232: StraightStair002
+    2300234: StraightStair003
+    2300236: StraightStair004
+    2300238: StraightStair005
+    2300240: StraightStair006
+    2300242: StraightStair007
+    2300244: StraightStair008
+    2300246: StraightStair009
+    2300248: tuong engine L
+    2300250: tuong engine R
+    3300000: Box177
+    3300002: Box178
+    3300004: Box183
+    3300006: Box184
+    3300008: Box186
+    3300010: Box189
+    3300012: Box190
+    3300014: Box194
+    3300016: Box195
+    3300018: Box205
+    3300020: Box206
+    3300022: Box428
+    3300024: Box429
+    3300026: Box433
+    3300028: Box441
+    3300030: Box442
+    3300032: Box446
+    3300034: Box447
+    3300036: Box448
+    3300038: Box449
+    3300040: Box451
+    3300042: Box452
+    3300044: Box453
+    3300046: Box454
+    3300048: Box455
+    3300050: Box456
+    3300052: Box458
+    3300054: Box459
+    3300056: Box460
+    3300058: Box461
+    3300060: Box462
+    3300062: Box467
+    3300064: Box473
+    3300066: Box476
+    3300068: Box477
+    3300070: Box479
+    3300072: Box481
+    3300074: Box482
+    3300076: Box483
+    3300078: Box484
+    3300080: Box485
+    3300082: Box486
+    3300084: Box487
+    3300086: Box488
+    3300088: Box489
+    3300090: Box490
+    3300092: Box492
+    3300094: Box493
+    3300096: Box494
+    3300098: Box495
+    3300100: Box496
+    3300102: Box497
+    3300104: Box498
+    3300106: Box499
+    3300108: Box500
+    3300110: Box504
+    3300112: Box505
+    3300114: Box506
+    3300116: Box507
+    3300118: Box510
+    3300120: Box511
+    3300122: Box512
+    3300124: Box513
+    3300126: Box514
+    3300128: Box515
+    3300130: Box516
+    3300132: Corridor T1 005
+    3300134: Corridor T1 010
+    3300136: Corridor T1 011
+    3300138: Corridor T1 015
+    3300140: Corridor T1 016
+    3300142: Corridor T1 018
+    3300144: Corridor T1 019
+    3300146: Corridor T1 020
+    3300148: Corridor T1 021
+    3300150: Corridor T1 022
+    3300152: Corridor T1 023
+    3300154: Corridor T1 024
+    3300156: cua engine L
+    3300158: cua engine R
+    3300160: cua sau
+    3300162: Cylinder004
+    3300164: Cylinder005
+    3300166: Cylinder006
+    3300168: Cylinder009
+    3300170: Cylinder010
+    3300172: hanh lang sau
+    3300174: Object002
+    3300176: Object005
+    3300178: Object006
+    3300180: Object007
+    3300182: Object008
+    3300184: Object009
+    3300186: Object010
+    3300188: Object011
+    3300190: Object012
+    3300192: Object014
+    3300194: Object015
+    3300196: Pilar T1 D 000
+    3300198: Pilar T1 D 001
+    3300200: Pilar T1 D 002
+    3300202: Pilar T1 D 003
+    3300204: Pilar T1 D 006
+    3300206: Pilar T1 D 007
+    3300208: Pilar T1 D 008
+    3300210: Pilar T1 D 009
+    3300212: Pilar T1 D 010
+    3300214: Pilar T1 U 000
+    3300216: Pilar T1 U 001
+    3300218: Pilar T1 U 002
+    3300220: Pilar T1 U 003
+    3300222: Pilar T1 U 004
+    3300224: Pilar T1 U 005
+    3300226: Pilar T1 U 006
+    3300228: Pilar T1 U 007
+    3300230: StraightStair001
+    3300232: StraightStair002
+    3300234: StraightStair003
+    3300236: StraightStair004
+    3300238: StraightStair005
+    3300240: StraightStair006
+    3300242: StraightStair007
+    3300244: StraightStair008
+    3300246: StraightStair009
+    3300248: tuong engine L
+    3300250: tuong engine R
+    4300000: Box428
+    4300002: Pilar T1 D 001
+    4300004: Box177
+    4300006: Box178
+    4300008: Box183
+    4300010: Box184
+    4300012: Box186
+    4300014: Box189
+    4300016: Box190
+    4300018: Box194
+    4300020: Box195
+    4300022: Box205
+    4300024: Box206
+    4300026: cua sau
+    4300028: Box429
+    4300030: Pilar T1 U 000
+    4300032: Corridor T1 005
+    4300034: Corridor T1 010
+    4300036: Corridor T1 011
+    4300038: Box433
+    4300040: Pilar T1 D 000
+    4300042: Object002
+    4300044: Pilar T1 D 002
+    4300046: Pilar T1 D 003
+    4300048: Pilar T1 D 006
+    4300050: Pilar T1 D 007
+    4300052: Pilar T1 D 008
+    4300054: Pilar T1 D 009
+    4300056: Corridor T1 015
+    4300058: Corridor T1 016
+    4300060: Box441
+    4300062: Box442
+    4300064: cua engine L
+    4300066: tuong engine L
+    4300068: Box446
+    4300070: tuong engine R
+    4300072: StraightStair001
+    4300074: StraightStair002
+    4300076: Box447
+    4300078: Box448
+    4300080: Box449
+    4300082: Box451
+    4300084: Corridor T1 018
+    4300086: Corridor T1 019
+    4300088: Box452
+    4300090: Box453
+    4300092: Pilar T1 D 010
+    4300094: Corridor T1 020
+    4300096: Box454
+    4300098: Box455
+    4300100: Box456
+    4300102: Corridor T1 021
+    4300104: Box458
+    4300106: Box459
+    4300108: Object005
+    4300110: Box460
+    4300112: StraightStair003
+    4300114: Box461
+    4300116: Object006
+    4300118: StraightStair004
+    4300120: Box462
+    4300122: cua engine R
+    4300124: StraightStair005
+    4300126: StraightStair006
+    4300128: Pilar T1 U 001
+    4300130: Pilar T1 U 002
+    4300132: Pilar T1 U 003
+    4300134: Pilar T1 U 004
+    4300136: Pilar T1 U 005
+    4300138: Pilar T1 U 006
+    4300140: Pilar T1 U 007
+    4300142: Box467
+    4300144: Object007
+    4300146: Object008
+    4300148: Box473
+    4300150: Object009
+    4300152: Box476
+    4300154: Box477
+    4300156: Box479
+    4300158: Box481
+    4300160: Box482
+    4300162: Box483
+    4300164: Box484
+    4300166: Box485
+    4300168: Box486
+    4300170: Box487
+    4300172: Box488
+    4300174: Box489
+    4300176: Box490
+    4300178: StraightStair007
+    4300180: Box492
+    4300182: Box493
+    4300184: Box494
+    4300186: Box495
+    4300188: Box496
+    4300190: Box497
+    4300192: Box499
+    4300194: Box500
+    4300196: Box498
+    4300198: Box504
+    4300200: Box505
+    4300202: Box506
+    4300204: Box507
+    4300206: Cylinder004
+    4300208: Object010
+    4300210: Object011
+    4300212: Corridor T1 022
+    4300214: Box510
+    4300216: Box511
+    4300218: Box512
+    4300220: Box513
+    4300222: Box514
+    4300224: Cylinder005
+    4300226: Cylinder006
+    4300228: Cylinder009
+    4300230: Cylinder010
+    4300232: StraightStair008
+    4300234: Corridor T1 023
+    4300236: Corridor T1 024
+    4300238: StraightStair009
+    4300240: Object012
+    4300242: hanh lang sau
+    4300244: Box515
+    4300246: Object014
+    4300248: Box516
+    4300250: Object015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
