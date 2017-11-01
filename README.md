@@ -28,4 +28,9 @@ the ability to accomplish. You can use the project and keep working on it; the s
 Download the project, open it, run the Scene file, and you can start to work on it immediately!
 
 ## Screenshots
-To Be Added
+![Character](/Screenshots/main_1.jpg?raw=true "Main Character")
+![Wall](/Screenshots/wall_1.jpg?raw=true "Wall")
+![Spaceship](/Screenshots/spaceship_1.png?raw=true "Spaceship")
+![Spaceship](/Screenshots/spaceship_2.png?raw=true "Spaceship")
+![Spaceship](/Screenshots/spaceship_3.jpg?raw=true "Spaceship")
+![Spaceship](/Screenshots/spaceship_4.jpg?raw=true "Spaceship")
