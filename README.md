@@ -27,6 +27,11 @@ the ability to accomplish. You can use the project and keep working on it; the s
 ### Installing the Project:
 Download the project, open it, run the Scene file, and you can start to work on it immediately!
 
+## Acknowledgments
+* Phung Duc Hao (3D Artist)
+* Le Gia Huy (2D Artist)
+* Dao Vu Thanh Binh (Concept Artist)
+
 ## Screenshots
 ![Character](/Screenshots/main_1.jpg?raw=true "Main Character")
 ![Wall](/Screenshots/wall_1.jpg?raw=true "Wall")
